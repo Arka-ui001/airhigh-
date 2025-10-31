@@ -1,0 +1,37 @@
+[
+  { "id": "6E201-DEL-BOM-0600", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E201", "from": "DEL", "to": "BOM", "departTime": "06:00", "arriveTime": "08:10", "durationMinutes": 130, "stops": 0, "basePrice": 4499, "aircraft": "Airbus A320" },
+  { "id": "AI805-DEL-BOM-0730", "airline": "Air India","airlineCode": "AI", "flightNumber": "AI805", "from": "DEL", "to": "BOM", "departTime": "07:30", "arriveTime": "09:40", "durationMinutes": 130, "stops": 0, "basePrice": 4699, "aircraft": "A320neo" },
+  { "id": "UK955-DEL-BOM-1800", "airline": "Vistara",  "airlineCode": "UK", "flightNumber": "UK955", "from": "DEL", "to": "BOM", "departTime": "18:00", "arriveTime": "20:15", "durationMinutes": 135, "stops": 0, "basePrice": 5199, "aircraft": "A320neo" },
+  { "id": "SG8701-DEL-BOM-2100","airline": "SpiceJet","airlineCode": "SG", "flightNumber": "SG8701", "from": "DEL", "to": "BOM", "departTime": "21:00", "arriveTime": "23:20", "durationMinutes": 140, "stops": 0, "basePrice": 4099, "aircraft": "Boeing 737" },
+
+  { "id": "6E4101-DEL-BLR-0645","airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E4101","from": "DEL", "to": "BLR","departTime": "06:45", "arriveTime": "09:30","durationMinutes": 165,"stops": 0,"basePrice": 4999,"aircraft": "A321neo" },
+  { "id": "UK811-DEL-BLR-1500", "airline": "Vistara",  "airlineCode": "UK", "flightNumber": "UK811", "from": "DEL", "to": "BLR","departTime": "15:00", "arriveTime": "17:45","durationMinutes": 165,"stops": 0,"basePrice": 5399,"aircraft": "A320neo" },
+  { "id": "QP1310-DEL-BLR-2200","airline": "Akasa Air","airlineCode": "QP", "flightNumber": "QP1310","from": "DEL", "to": "BLR","departTime": "22:00", "arriveTime": "00:50","durationMinutes": 170,"stops": 0,"basePrice": 4699,"aircraft": "Boeing 737 MAX 8" },
+
+  { "id": "6E532-BLR-DEL-0700", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E532", "from": "BLR", "to": "DEL","departTime": "07:00", "arriveTime": "09:45","durationMinutes": 165,"stops": 0,"basePrice": 4999,"aircraft": "A320" },
+  { "id": "AI502-BLR-DEL-1200", "airline": "Air India","airlineCode": "AI", "flightNumber": "AI502", "from": "BLR", "to": "DEL","departTime": "12:00", "arriveTime": "14:45","durationMinutes": 165,"stops": 0,"basePrice": 5299,"aircraft": "A320neo" },
+
+  { "id": "6E351-HYD-DEL-0630", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E351", "from": "HYD", "to": "DEL","departTime": "06:30", "arriveTime": "08:45","durationMinutes": 135,"stops": 0,"basePrice": 3899,"aircraft": "A320" },
+  { "id": "UK898-HYD-DEL-1930", "airline": "Vistara",  "airlineCode": "UK", "flightNumber": "UK898", "from": "HYD", "to": "DEL","departTime": "19:30", "arriveTime": "21:50","durationMinutes": 140,"stops": 0,"basePrice": 4199,"aircraft": "A320" },
+
+  { "id": "6E233-MAA-DEL-0705", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E233", "from": "MAA", "to": "DEL","departTime": "07:05", "arriveTime": "09:55","durationMinutes": 170,"stops": 0,"basePrice": 4799,"aircraft": "A321neo" },
+  { "id": "AI440-MAA-DEL-2000", "airline": "Air India","airlineCode": "AI", "flightNumber": "AI440", "from": "MAA", "to": "DEL","departTime": "20:00", "arriveTime": "22:55","durationMinutes": 175,"stops": 0,"basePrice": 5099,"aircraft": "A320" },
+
+  { "id": "6E531-CCU-DEL-0600", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E531", "from": "CCU", "to": "DEL","departTime": "06:00", "arriveTime": "08:20","durationMinutes": 140,"stops": 0,"basePrice": 4199,"aircraft": "A320" },
+  { "id": "UK706-CCU-DEL-1800", "airline": "Vistara",  "airlineCode": "UK", "flightNumber": "UK706", "from": "CCU", "to": "DEL","departTime": "18:00", "arriveTime": "20:20","durationMinutes": 140,"stops": 0,"basePrice": 4499,"aircraft": "A320" },
+
+  { "id": "6E771-BOM-GOI-0940", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E771", "from": "BOM", "to": "GOI","departTime": "09:40", "arriveTime": "10:50","durationMinutes": 70, "stops": 0,"basePrice": 2999,"aircraft": "A320" },
+  { "id": "QP1103-BOM-GOI-2000","airline": "Akasa Air","airlineCode": "QP", "flightNumber": "QP1103","from": "BOM", "to": "GOI","departTime": "20:00", "arriveTime": "21:10","durationMinutes": 70, "stops": 0,"basePrice": 3199,"aircraft": "Boeing 737 MAX 8" },
+
+  { "id": "6E621-PNQ-DEL-0655", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E621", "from": "PNQ", "to": "DEL","departTime": "06:55", "arriveTime": "09:10","durationMinutes": 135,"stops": 0,"basePrice": 3899,"aircraft": "A320" },
+  { "id": "AI850-PNQ-DEL-1955", "airline": "Air India","airlineCode": "AI", "flightNumber": "AI850", "from": "PNQ", "to": "DEL","departTime": "19:55", "arriveTime": "22:10","durationMinutes": 135,"stops": 0,"basePrice": 4299,"aircraft": "A320" },
+
+  { "id": "6E405-AMD-DEL-0735", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E405", "from": "AMD", "to": "DEL","departTime": "07:35", "arriveTime": "09:20","durationMinutes": 105,"stops": 0,"basePrice": 3399,"aircraft": "A320" },
+  { "id": "UK954-AMD-DEL-1810", "airline": "Vistara",  "airlineCode": "UK", "flightNumber": "UK954", "from": "AMD", "to": "DEL","departTime": "18:10", "arriveTime": "20:00","durationMinutes": 110,"stops": 0,"basePrice": 3699,"aircraft": "A320" },
+
+  { "id": "6E622-COK-DEL-0600", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E622", "from": "COK", "to": "DEL","departTime": "06:00", "arriveTime": "08:55","durationMinutes": 175,"stops": 0,"basePrice": 4899,"aircraft": "A320" },
+  { "id": "AI466-COK-DEL-2005", "airline": "Air India","airlineCode": "AI", "flightNumber": "AI466", "from": "COK", "to": "DEL","departTime": "20:05", "arriveTime": "23:05","durationMinutes": 180,"stops": 0,"basePrice": 5199,"aircraft": "A320" },
+
+  { "id": "6E211-LKO-DEL-0630", "airline": "IndiGo",   "airlineCode": "6E", "flightNumber": "6E211", "from": "LKO", "to": "DEL","departTime": "06:30", "arriveTime": "07:40","durationMinutes": 70, "stops": 0,"basePrice": 2699,"aircraft": "A320" },
+  { "id": "AI412-LKO-DEL-1935", "airline": "Air India","airlineCode": "AI", "flightNumber": "AI412", "from": "LKO", "to": "DEL","departTime": "19:35", "arriveTime": "20:45","durationMinutes": 70, "stops": 0,"basePrice": 2899,"aircraft": "A320" }
+]
